@@ -1,12 +1,12 @@
 {
   "name": "converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Unit testing for nodejs using mocha",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
-  "author": "",
+  "author": "m.anangnur@gmail.com",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
